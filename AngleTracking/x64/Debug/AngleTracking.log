@@ -1,4 +1,3 @@
 ﻿  Main.cpp
-c:\users\alexj\source\repos\ecr-vision\angletracking\main.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   AngleTracking.vcxproj -> C:\Users\alexj\Source\Repos\ECR-Vision\AngleTracking\x64\Debug\AngleTracking.exe
   AngleTracking.vcxproj -> C:\Users\alexj\Source\Repos\ECR-Vision\AngleTracking\x64\Debug\AngleTracking.pdb (Partial PDB)

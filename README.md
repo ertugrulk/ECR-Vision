@@ -21,7 +21,8 @@ This class perpos is to generate a file that contains the needed data to un dist
 - [ ] Put Settings class in spepernt file
 
 ## Angle Tracking
-- [ ] Creat object tracking algirithem
+- [x] Creat object tracking algirithem
+- [ ] Improve object decetion algrithem as to only detect contours with 4 cornners 
 - [ ] Create distance tracking algirithem
 - [ ] Create algerithem to compute dot product
 - [ ] Create algrithem to claculate inner angle of vectors from center
